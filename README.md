@@ -1,4 +1,4 @@
-# Advanced Security Suite
+Advanced Security Suite
 
 A powerful web application security scanner built with React and TypeScript that helps identify vulnerabilities in websites through comprehensive security assessments.
 
